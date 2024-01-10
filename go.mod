@@ -1,3 +1,3 @@
-module abhijitmondal.in/1234pia
+module github.com/abhimp/1234pia
 
 go 1.21.6
